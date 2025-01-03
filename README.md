@@ -28,9 +28,6 @@ Bem-vindo à aula de **Introdução ao HTML**! Nesta aula, você aprenderá os f
    - **Parágrafos**: `<p>` (blocos de texto).
    - **Links**: `<a href="url">` (navegação para outras páginas).
    - **Imagens**: `<img src="url" alt="descrição">` (exibição de imagens).
-   - **Listas**:
-     - Ordenadas: `<ol>` (listas numeradas).
-     - Não ordenadas: `<ul>` (listas com marcadores).
 
 4. **Boas Práticas**
    - Sempre fechar as tags.
